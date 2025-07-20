@@ -1,0 +1,18 @@
+/hr_management/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── includes/
+│   ├── config.php
+│   ├── header.php
+│   ├── footer.php
+│   ├── auth.php
+│   └── functions.php
+├── modules/
+│   ├── employees/
+│   ├── attendance/
+│   ├── leave/
+│   └── contracts/
+├── index.php
+└── login.php
